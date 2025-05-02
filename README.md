@@ -1,41 +1,42 @@
-<h1 align="left">My first personal website</h1>
 
-###
+# Mi Página Personal en HTML
 
-<p align="left">My name is Hector stiven longas bahamón and I am a SENA apprentice.</p>
+Este proyecto consiste en construir una página web personal utilizando únicamente HTML, aplicando buenas prácticas de codificación y organización de archivos.
 
-###
+## Contenido del Proyecto
 
-<h2 align="left">About me</h2>
+- **index.html**: Página principal del sitio web.
+- **/images/**: Carpeta que contiene las imágenes utilizadas.
+- **/videos/** (opcional): Carpeta para videos usados.
+- **/audios/** (opcional): Carpeta para archivos de audio.
 
-###
+## Estructura de la Página
 
-<p align="left">📚 I'm currently learning HTML<br>🎯 Goals: create an innovative software project</p>
+- Encabezados y párrafos para presentar información.
+- Imágenes de perfil u otras relevantes.
+- Listas ordenadas y no ordenadas.
+- Hipervínculos internos y externos.
+- Tablas para mostrar datos.
+- Formularios básicos de contacto.
+- Inserción de videos y audios.
+- Secciones y artículos para organizar contenido.
+- Barra de navegación para desplazarse dentro de la página.
+- Contenido adicional en `aside`.
+- Figuras con descripciones.
 
-###
+## Buenas Prácticas
 
-<h2 align="left">I code with</h2>
+- Código HTML indentado correctamente.
+- Uso de comentarios `<!-- -->` para explicar bloques importantes.
+- Archivos y carpetas nombrados en minúsculas y sin espacios.
+- Uso de rutas relativas correctas (`./images/imagen.jpg`).
+- Commits descriptivos en GitHub para cada avance.
 
-###
+## Cómo visualizar el proyecto
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
+1. Clona el repositorio o descarga los archivos.
+2. Abre `index.html` en tu navegador favorito.
 
-###
+## Autor
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Stiven-Longas/count.svg?"  />
-</div>
-
-###
+Desarrollado por [Hector Stiven longas bahamón] como parte del curso básico de HTML.
